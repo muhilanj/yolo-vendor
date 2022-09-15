@@ -1,0 +1,27 @@
+[
+    {
+        "productname":"Pepsi",
+        "unit":"500 ml",
+        "quantity":"1 case",
+        "price" :"30"
+    },
+
+    {
+        "productname":"Coca-Cola",
+        "unit":"750 ml",
+        "quantity":"1 case",
+        "price" :"30"
+    },
+    {
+        "productname":"Water-can",
+        "unit":"20 lt",
+        "quantity":"1 can",
+        "price" :"20"
+    },
+    {
+        "productname":"Water-Bottle",
+        "unit":"2 lt",
+        "quantity":"9 Bottles",
+        "price" :"30"
+    }
+]
